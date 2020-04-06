@@ -35,7 +35,7 @@ body {
 
 .mainTitleContent:before, .mainTitleContent:after {
     position: absolute;
-    top: 80%;
+    top: 77%;
     overflow: hidden;
     width: 49.5%;
     height: 3px;
@@ -156,7 +156,7 @@ ul{
 }
 
 #aboutMeContent {
-    text-align: left;
+    text-align: right;
     font-size: 22px;
 }
 
@@ -177,6 +177,3 @@ ul{
     text-decoration:underline;
 }
 
-#qrCodeWrapper {
-    width:25%;
-}
