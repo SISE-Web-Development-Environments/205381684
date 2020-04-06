@@ -4,5 +4,5 @@
 אני שמח שניתנה לי ההזדמנות לפתח אתר לסבי.
 
 ניתן להיכנס לאתר על ידי פתיחת קובץ ה- index.html או על ידי כניסה לכתובת:
-https://sise-web-development-environments.github.io/assignment1-AmirGabai/
+https://sise-web-development-environments.github.io/205381684/
 מגיש: אמיר גבאי ת.ז. 205381684
